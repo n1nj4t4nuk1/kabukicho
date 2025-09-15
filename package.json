@@ -1,0 +1,20 @@
+{
+  "name": "kabukicho",
+  "displayName": "Kabukicho",
+  "description": "A VS Code theme inspired by Kabukicho and Tokyo",
+  "version": "0.0.1",
+  "publisher": "yourpublisher",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kabukicho",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kabukicho-cyberpunk.json"
+      }
+    ]
+  }
+}

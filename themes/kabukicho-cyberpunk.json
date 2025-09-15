@@ -1,0 +1,12 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0d0d0d",
+    "editor.foreground": "#f5f5f5",
+    "activityBar.background": "#1a1a1a",
+    "sideBar.background": "#121212",
+    "statusBar.background": "#b30059"
+  },
+  "tokenColors": []
+}
