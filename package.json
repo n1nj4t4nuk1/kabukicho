@@ -3,7 +3,12 @@
   "displayName": "Kabukicho",
   "description": "A VS Code theme inspired by Kabukicho and Tokyo",
   "version": "0.0.1",
-  "publisher": "yourpublisher",
+  "publisher": "n1nj4t4nuk1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://codeberg.org/n1nj4t4nuk1/kabukicho"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
