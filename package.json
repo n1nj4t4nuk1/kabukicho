@@ -16,9 +16,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Kabukicho",
+        "label": "Kabukicho Night",
         "uiTheme": "vs-dark",
-        "path": "./themes/kabukicho-cyberpunk.json"
+        "path": "./themes/kabukicho-night.json"
       }
     ]
   }
